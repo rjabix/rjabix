@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚪🔴 Wrocław Institute of Technology<br>🔭 I’m currently working as Fullstack developer, mainly in React and C# ASP.NET<br>📚 Actively learning Cybersecurity, OS Management and Networking from 2023<br>💡 Experience in Python, Tailwind, TypeScript, Golang, C/C++, Java
+⚪🔴 Wrocław University of Technology<br>🔭 I’m currently working as Fullstack developer, mainly in React and C# ASP.NET<br>📚 Actively learning Cybersecurity, OS Management and Networking from 2023<br>💡 Experience in Python, Tailwind, TypeScript, Golang, C/C++, Java
 
 
 # 💻 Tech Stack:
